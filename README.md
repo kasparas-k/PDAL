@@ -1,5 +1,7 @@
 # PDAL
 
+This change should not cause the conda builds to fail, if they were not broken before.
+
 PDAL is GDAL for point cloud data. Main website is [https://pdal.io/](https://pdal.io).
 
 ## Contributing
